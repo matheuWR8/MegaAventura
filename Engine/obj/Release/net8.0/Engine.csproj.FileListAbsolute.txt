@@ -1,0 +1,11 @@
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\bin\Release\net8.0\Engine.deps.json
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\bin\Release\net8.0\Engine.dll
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\bin\Release\net8.0\Engine.pdb
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\obj\Release\net8.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\obj\Release\net8.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\obj\Release\net8.0\Engine.AssemblyInfo.cs
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\obj\Release\net8.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\obj\Release\net8.0\Engine.dll
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\obj\Release\net8.0\refint\Engine.dll
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\obj\Release\net8.0\Engine.pdb
+C:\Users\Math\STUFF\!Docs\Dev\CESHARPE\RPGGame\MegaAventura\Engine\obj\Release\net8.0\ref\Engine.dll
